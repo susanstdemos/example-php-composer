@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cb693fc7725f817ca207af940a2bb817",
+    "content-hash": "bdb4ad0880baad70eb47bae08a7cba24",
     "packages": [
         {
             "name": "appserver-io-psr/http-message",
@@ -69,16 +69,16 @@
         },
         {
             "name": "appserver-io/http",
-            "version": "1.1.6",
+            "version": "1.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/appserver-io/http.git",
-                "reference": "07cecee646cc2200eb49509106a02413c45188b5"
+                "reference": "e9c716dbf71a81ea592a3475db0ccdef28c5ad4f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/appserver-io/http/zipball/07cecee646cc2200eb49509106a02413c45188b5",
-                "reference": "07cecee646cc2200eb49509106a02413c45188b5",
+                "url": "https://api.github.com/repos/appserver-io/http/zipball/e9c716dbf71a81ea592a3475db0ccdef28c5ad4f",
+                "reference": "e9c716dbf71a81ea592a3475db0ccdef28c5ad4f",
                 "shasum": ""
             },
             "require": {
@@ -136,7 +136,7 @@
                 "protocol",
                 "server"
             ],
-            "time": "2015-10-19T15:57:43+00:00"
+            "time": "2015-11-13T11:27:30+00:00"
         },
         {
             "name": "ircmaxell/password-compat",
